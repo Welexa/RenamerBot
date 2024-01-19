@@ -39,8 +39,8 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>┏━━━━━━━━━━━━━━━━⍟
 ┃🤖 ᴍy ɴᴀᴍᴇ : {}
-┃👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/https://t.me/Its_Oreki_Hotarou>Hōᴛᴀʀō Oʀᴇᴋɪ</a>
-┃☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Anime_X_Hunters>Anime X Hunters</a>
+┃👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/https://t.me/Eren_is_Yeager>Eʀᴇɴ Yᴇᴀɢᴇʀ</a>
+┃☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/TeamMayhem>Team Mayhem</a>
 ┃📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ┃✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ┃💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
